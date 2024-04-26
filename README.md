@@ -1,6 +1,6 @@
 # clockVana
 
-Modification of atom0s's clock addon to add in Vana'diel time elements.
+Modification of atom0s's clock addon to add in Vana'diel time elements.  This is basically just the vanilla Clock addon from atom0s (https://github.com/AshitaXI/Ashita-v4beta/) combined with functions from the the Ashita v3 lib `vanatime` ([https://git.ashitaxi.com/Ashita/Ashitav3-Release/src/commit/8eb0fde9d462de2da20d68be11ad31cf4fa3787f/addons/libs/ffxi/vanatime.lua](https://git.ashitaxi.com/Ashita/Ashitav3-Release/src/branch/master/addons/libs/ffxi/vanatime.lua)).
 
 ![image](https://github.com/ConteAlmaviva/clockvana/assets/8880996/d2f67649-1652-4dfc-847b-da417694531e)
 
