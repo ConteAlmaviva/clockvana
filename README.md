@@ -4,6 +4,10 @@ Modification of atom0s's clock addon to add in Vana'diel time elements.
 
 ![image](https://github.com/ConteAlmaviva/clockvana/assets/8880996/d2f67649-1652-4dfc-847b-da417694531e)
 
+![image](https://github.com/ConteAlmaviva/clockvana/assets/8880996/323408b2-80ce-4e5f-96ff-84188daff208)
+
+![image](https://github.com/ConteAlmaviva/clockvana/assets/8880996/897a7bd7-da7f-44b5-b686-8b028de28128)
+
 ```
         { '/time help', 'Displays the addons help information.' },
         { '/time save', 'Saves the current settings.' },
